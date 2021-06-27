@@ -1,3 +1,3 @@
-covid
-non covid
+1. covid
+2. non covid
 
