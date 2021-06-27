@@ -1,1 +1,2 @@
-# co-v
+covid
+non covid
